@@ -1,39 +1,21 @@
 # Web Design for a Software Product Company
-
 ## AIM:
-
 To design a static website for a software product company company.
-
 ## DESIGN STEPS:
-
 ### Step 1:
-
 Requirement collection.
-
 ### Step 2:
-
 Creating the layout using HTML and CSS.
-
 ### Step 3:
-
 Updating the sample content.
-
 ### Step 4:
-
 Choose the appropriate style and color scheme.
-
 ### Step 5:
-
 Validate the layout in various browsers.
-
 ### Step 6:
-
 Validate the HTML code.
-
 ### Step 6:
-
 Publish the website in the given URL.
-
 ## PROGRAM :
 ## home.html:
 ```python
@@ -44,7 +26,6 @@ Publish the website in the given URL.
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner">EduSoft Private Limited.</div>
@@ -96,7 +77,6 @@ Publish the website in the given URL.
         <link rel="stylesheet" href="./css/layout.css" />
         <link rel="icon" href="./img/banner1.jpg" type="image/x-icon" />    
     </head>
-
     <body>
         <div class="container">
             <div class="banner">EduSoft Private Limited.</div>
@@ -156,7 +136,6 @@ Publish the website in the given URL.
             </div>
         </div>
     </body>
-
 </html>
 ```
 ### people.html:
@@ -168,7 +147,6 @@ Publish the website in the given URL.
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/banner1.jpg" type="image/x-icon" />
   </head>
-
   <body>
    <div class="container">
       <div class="banner">EduSoft Private Limited.</div>
@@ -197,7 +175,6 @@ Publish the website in the given URL.
                           <div class="peoplepos">CPO</div>
                       </div>
                       <div class="peoplecontent">   
-                      
                         <div class="peopleitems">
                             <div class="peopleitem"> 
                                 <div class="peopleimage">
@@ -206,9 +183,7 @@ Publish the website in the given URL.
                                 <div class="peoplename">Mr.yogeshwaran</div>
                                 <div class="peoplepos">CHRO</div>
                             </div>
-                      
                         <div class="peoplecontent">  
-                                
                                     <div class="peopleitems">
                                         <div class="peopleitem"> 
                                             <div class="peopleimage">
@@ -218,7 +193,6 @@ Publish the website in the given URL.
                                             <div class="peoplepos">Joint MD and CTO</div>
                               </div>
                         <div class="peoplecontent"> 
-                                          
                                           <div class="peopleitems">
                                               <div class="peopleitem"> 
                                                   <div class="peopleimage">
@@ -237,9 +211,6 @@ Publish the website in the given URL.
                                         <div class="peoplename">Mr.Dinesh Karthick</div>
                                         <div class="peoplepos">CFO</div>
                      </div>
-
-
-                
           </div>
         </div>
       <div>
@@ -259,7 +230,6 @@ Publish the website in the given URL.
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner">EduSoft Private Limited.</div>
