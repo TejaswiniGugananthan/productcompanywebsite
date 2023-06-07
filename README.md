@@ -36,7 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ## home.html:
-```
+```python
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -88,7 +88,7 @@ Publish the website in the given URL.
 </html>
 ```
 ### contact.html:
-```
+```python
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -160,7 +160,7 @@ Publish the website in the given URL.
 </html>
 ```
 ### people.html:
-```
+```python
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -251,7 +251,7 @@ Publish the website in the given URL.
 </html>
 ```
 ### products.html:
-```
+```python
 <!DOCTYPE html>
 <html lang="en">
   <head>
